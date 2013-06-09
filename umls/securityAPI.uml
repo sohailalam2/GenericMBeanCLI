@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="124.0">com.sohail.alam.generic.mbean.cli.security.Authentication</node>
+    <node x="35.5" y="0.0">com.sohail.alam.generic.mbean.cli.security.Credentials</node>
+    <node x="-416.0" y="106.0">com.sohail.alam.generic.mbean.cli.security.DefaultAuthentication</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sohail.alam.generic.mbean.cli.security.Authentication" target="com.sohail.alam.generic.mbean.cli.security.Credentials">
+      <point x="0.0" y="-48.5" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.security.DefaultAuthentication" target="com.sohail.alam.generic.mbean.cli.security.Authentication">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="188.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

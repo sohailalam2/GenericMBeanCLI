@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="332.5" y="1068.0">com.sohail.alam.generic.mbean.cli.jmx.DefaultDataStorage</node>
+    <node x="-71.0" y="973.0">com.sohail.alam.generic.mbean.cli.jmx.DefaultJMXInitializer</node>
+    <node x="781.0" y="742.5">com.sohail.alam.generic.mbean.cli.jmx.States</node>
+    <node x="623.5" y="108.0">com.sohail.alam.generic.mbean.cli.jmx.OperationHelper</node>
+    <node x="22.5" y="0.0">com.sohail.alam.generic.mbean.cli.jmx.AttributeHelper</node>
+    <node x="726.0" y="1075.5">com.sohail.alam.generic.mbean.cli.jmx.MessageFormatter</node>
+    <node x="-45.0" y="708.0">com.sohail.alam.generic.mbean.cli.jmx.JMXInitializer</node>
+    <node x="28.5" y="346.0">com.sohail.alam.generic.mbean.cli.jmx.DefaultAttributeHelper</node>
+    <node x="1022.0" y="474.0">com.sohail.alam.generic.mbean.cli.jmx.JavaClassTypes</node>
+    <node x="331.0" y="709.0">com.sohail.alam.generic.mbean.cli.jmx.DataStorage</node>
+    <node x="614.0" y="388.0">com.sohail.alam.generic.mbean.cli.jmx.DefaultOperationHelper</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sohail.alam.generic.mbean.cli.jmx.DefaultOperationHelper" target="com.sohail.alam.generic.mbean.cli.jmx.OperationHelper">
+      <point x="0.0" y="-159.5" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.jmx.DefaultJMXInitializer" target="com.sohail.alam.generic.mbean.cli.jmx.JMXInitializer">
+      <point x="0.0" y="-93.5" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.jmx.DefaultDataStorage" target="com.sohail.alam.generic.mbean.cli.jmx.DataStorage">
+      <point x="0.0" y="-93.5" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.jmx.DefaultAttributeHelper" target="com.sohail.alam.generic.mbean.cli.jmx.AttributeHelper">
+      <point x="0.0" y="-170.5" />
+      <point x="0.0" y="136.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="478.0" y="1197.0" />
+  <SelectedNodes>
+    <node>com.sohail.alam.generic.mbean.cli.jmx.JavaClassTypes</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

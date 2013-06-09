@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="112.0" y="211.0">com.sohail.alam.generic.mbean.cli.GenericMBeanCliBootstrap</node>
+    <node x="-273.0" y="223.0">com.sohail.alam.generic.mbean.cli.DefaultCliCommands</node>
+    <node x="-295.0" y="56.0">com.sohail.alam.generic.mbean.cli.CliProperties</node>
+    <node x="156.5" y="30.0">com.sohail.alam.generic.mbean.cli.HelperMethods</node>
+    <node x="349.0" y="208.0">com.sohail.alam.generic.mbean.cli.ShutdownHook</node>
+    <node x="-207.5" y="344.0">com.sohail.alam.generic.mbean.cli.CliCommands</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sohail.alam.generic.mbean.cli.DefaultCliCommands" target="com.sohail.alam.generic.mbean.cli.CliCommands">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="185.0" y="266.0" />
+  <SelectedNodes>
+    <node>com.sohail.alam.generic.mbean.cli.CliCommands</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

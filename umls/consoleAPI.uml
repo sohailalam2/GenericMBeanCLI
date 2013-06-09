@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-968.4999999999998" y="-68.49999999999977">com.sohail.alam.generic.mbean.cli.console.ConsoleType</node>
+    <node x="-684.0" y="128.0">com.sohail.alam.generic.mbean.cli.console.DefaultProcessUserInput</node>
+    <node x="-1249.0" y="78.0">com.sohail.alam.generic.mbean.cli.console.DefaultConsoleIO</node>
+    <node x="-675.9999999999997" y="-58.99999999999997">com.sohail.alam.generic.mbean.cli.console.ProcessUserInput</node>
+    <node x="-1001.0" y="88.0">com.sohail.alam.generic.mbean.cli.console.DefaultConsoleType</node>
+    <node x="-1199.9999999999995" y="-68.99999999999997">com.sohail.alam.generic.mbean.cli.console.ConsoleIO</node>
+    <node x="-382.5" y="-91.0">com.sohail.alam.generic.mbean.cli.CliCommands</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sohail.alam.generic.mbean.cli.console.DefaultProcessUserInput" target="com.sohail.alam.generic.mbean.cli.CliCommands">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.console.DefaultProcessUserInput" target="com.sohail.alam.generic.mbean.cli.console.ProcessUserInput">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.console.ProcessUserInput" target="com.sohail.alam.generic.mbean.cli.CliCommands">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.console.DefaultConsoleType" target="com.sohail.alam.generic.mbean.cli.console.ConsoleType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.sohail.alam.generic.mbean.cli.console.DefaultConsoleIO" target="com.sohail.alam.generic.mbean.cli.console.ConsoleIO">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="-734.0" y="151.0" />
+  <SelectedNodes>
+    <node>com.sohail.alam.generic.mbean.cli.CliCommands</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

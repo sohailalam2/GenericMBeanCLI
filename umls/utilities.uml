@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-104.0" y="-74.0">com.sohail.alam.generic.mbean.cli.utils.Validate</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.sohail.alam.generic.mbean.cli.utils.Validate" target="com.sohail.alam.generic.mbean.cli.utils.Validate">
+      <point x="0.0" y="0.0" />
+      <point x="23.0" y="-154.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes>
+    <node>com.sohail.alam.generic.mbean.cli.utils.Validate</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+
